@@ -1,0 +1,7 @@
+pyyaml
+flask
+flask-restful
+colorama
+pytest
+pandas
+bs4

@@ -1,0 +1,13 @@
+
+Reader:
+    - read xml files
+    - read normalized file
+    - return matrix with 'any' file as base
+
+Extractor:
+    - 
+
+pluspoints?
+    - dockerize API and client
+    v if len(guess) == len(word_in_session) check if completely correct
+    v add username question at start: and save
