@@ -1,0 +1,10 @@
+README.md
+setup.py
+reader/__init__.py
+reader/reader.py
+synonymfinder.egg-info/PKG-INFO
+synonymfinder.egg-info/SOURCES.txt
+synonymfinder.egg-info/dependency_links.txt
+synonymfinder.egg-info/top_level.txt
+test_reader/__init__.py
+utils/__init__.py
